@@ -1,6 +1,12 @@
 [
   {
     "remote": "github",
+    "repository": "SuperHanss/android_bootable_recovery-twrp",
+    "target_path": "bootable/recovery-twrp",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "github",
     "repository": "AOSPA-L/android_device_sony_fusion3-common",
     "target_path": "device/sony/fusion3-common",
     "revision": "lollipop-mr1"
