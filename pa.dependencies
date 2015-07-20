@@ -25,7 +25,7 @@
   },
   {
     "remote": "github",
-    "repository": "SuperHanss/android_kernel_sony_apq8064",
+    "repository": "AOSPA-L/android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
     "revision": "lollipop-mr1"
   },
